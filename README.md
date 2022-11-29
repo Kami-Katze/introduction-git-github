@@ -18,3 +18,5 @@ What you'll do
     Push the snapshots to the master branch
 
 You'll have 90 minutes to complete this lab.
+
+Some new text
